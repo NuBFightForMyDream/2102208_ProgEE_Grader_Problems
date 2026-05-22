@@ -9,10 +9,7 @@ def cosine_of_difference(x) :
     x_horizontal_i = x.copy().reshape(1,-1) # row vector -> 1xn 
     x_vertical_j = x.copy().reshape(-1,1) # column vector -> nx1
     
-    # Step 2 : transform each matrix to cosine
-    cos_xi = np.cos(x_horizontal_i)
-    cos_xj = np.cos(x_vertical_j)
-    
-    return cos_xi - cos_xj # Return the resulting matrix
+    # Step 2 : calculate cosine difference
+    return np.cos(x_horizontal_i - x_vertical_j) # Return the resulting matrix
 
 exec("\n".join(iter(input, "#Exit"))) # Don’t remove this line
