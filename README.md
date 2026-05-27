@@ -1,10 +1,11 @@
-# EE208 Grader Problems Checklist
+# 2102208 Programming For ELectrical Engineering : Grader Problems Checklist
 
-This repository contains all grader problems for the 2102208 Programming for Electrical Engineering course.
+- This repository contains all grader problems for the 2102208 Programming for Electrical Engineering course.
+- Main Contributors : 6730084521 Chatrphol Ovanonchai EE108
 
-## Problems Status
+# Problems List
 
-## EE208_01: Grader Test Problems
+## Part 01: Grader Test Problems 
 
 | Codename | Problem Name | Difficulty | Status | 
 |----------|--------------|------------|--------|
@@ -15,22 +16,22 @@ This repository contains all grader problems for the 2102208 Programming for Ele
 
 ---
 
-## EE208_02: Matrix Creation
+## Part 02: Matrix Creation
 
 | Codename | Problem Name | Difficulty | Status | Note |
 |----------|--------------|------------|--------|------|
-| [EE208_02_01](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_01%20Triangular%20System/ee208_triangular_system.pdf) | Triangular System | 2 ⭐️ | ✅ | |
-| [EE208_02_02](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_02%20Cosine%20Difference/ee208_cosine_difference.pdf) | Cosine Difference | 1.5 ⭐️ | ✅ | |
+| [EE208_02_01](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_01%20Triangular%20System/ee208_triangular_system.pdf) | Triangular System | 2 ⭐️ | ✅ | `diag triu tril`|
+| [EE208_02_02](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_02%20Cosine%20Difference/ee208_cosine_difference.pdf) | Cosine Difference | 1.5 ⭐️ | ✅ | `|
 | [EE208_02_03](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_03%20Stochastic%20Matrix/ee208_stochastic_matrix.pdf) | Stochastic Matrix | 2 ⭐️ | ✅ | |
 | [EE208_02_04](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/tree/main/EE208_02%20Matrix%20Creation/EE208_02_04%20Toeplitz%20Matrix) | Toeplitz Matrix | 2.5 ⭐️ | ✅ | |
 | [EE208_02_05](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_05%20Hankel%20Matrix/ee208_hankel_matrix.pdf) | Hankel Matrix | 1.5 ⭐️ | ✅ | |
 | [EE208_02_06](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_06%20Vandermonde%20Matrix/ee208_vandermonde_matrix.pdf) | Vandermonde Matrix | 2.5 ⭐️ | ✅ | |
-| [EE208_02_07](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_07%20Product%20of%20All%20Possible%20Differences/ee208_product_difference.pdf) | Product of All Possible Differences | 2.5 ⭐️ | ❌ ||
+| [EE208_02_07](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_07%20Product%20of%20All%20Possible%20Differences/ee208_product_difference.pdf) | Product of All Possible Differences | 2.5 ⭐️ | ✅ ||
 | [EE208_02_08](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_02%20Matrix%20Creation/EE208_02_08%20Repeat%20Matrix/ee208_repeat_matrix.pdf) | Repeat Matrix | 1.5 ⭐️ | ❌ | |
 
 ---
 
-## EE208_03: Recursion Problems
+## Part 03: Recursion Problems (Not Done)
 
 | Codename | Problem Name | Difficulty | Status | Note |
 |----------|--------------|------------|--------|------|
@@ -43,23 +44,23 @@ This repository contains all grader problems for the 2102208 Programming for Ele
 
 ---
 
-## EE208_04: Matrix Problems
+## Part 04: Matrix Problems
 
 | Codename | Problem Name | Difficulty | Status | Note |
 |----------|--------------|------------|--------|------|
-| [EE208_04_01](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_01%20Decomposition/ee208_decomposition.pdf) | Decomposition | 2.5 ⭐️ | ❌ |  |
-| [EE208_04_02](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_02%20Find%20Outlier/ee208_find_outlier.pdf) | Find Outlier | 2 ⭐️ | ❌ |  |
-| [EE208_04_03](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_03%20Matrix%20Normalization/ee208_matrix_norm.pdf) | Matrix Normalization | 2 ⭐️ | ❌ |  |
-| [EE208_04_04](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_04%20Maximum%20Absolute%20Sum/ee208_max_abs_sum.pdf) | Maximum Absolute Sum | 1.5 ⭐️ | ❌ |  |
-| [EE208_04_05](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_05%20Maximum%20Inner%20Product/ee208_max_inner_product.pdf) | Maximum Inner Product | 2 ⭐️ | ❌ |  |
-| [EE208_04_06](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_06%20Maximum%20of%20Quadratic%20Function/ee208_max_quadratic.pdf) | Maximum of Quadratic Function | 3 ⭐️ | ❌ |  |
-| [EE208_04_07](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_07%20Mix%20Max%20Scaling/ee208_min_max_scale.pdf) | Mix Max Scaling | 1.5 ⭐️ | ❌ |  |
-| [EE208_04_08](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_08%20Normal%20Standardization/ee208_standardization.pdf) | Normal Standardization | 2 ⭐️ | ❌ |  |
-| [EE208_04_09](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_09%20Taylor%20Approximation%20on%20Trigonometry/ee208_taylor_trigono.pdf) | Taylor Approximation on Trigonometry | 3 ⭐️ | ❌ |  |
+| [EE208_04_01](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_01%20Decomposition/ee208_decomposition.pdf) | Decomposition | 2 ⭐️ | ✅ |  |
+| [EE208_04_02](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_02%20Find%20Outlier/ee208_find_outlier.pdf) | Find Outlier | 1 ⭐️ | ✅ |  |
+| [EE208_04_03](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_03%20Matrix%20Normalization/ee208_matrix_norm.pdf) | Matrix Normalization | 1 ⭐️ | ✅ |  |
+| [EE208_04_04](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_04%20Maximum%20Absolute%20Sum/ee208_max_abs_sum.pdf) | Maximum Absolute Sum | 1.5 ⭐️ | ✅ |  |
+| [EE208_04_05](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_05%20Maximum%20Inner%20Product/ee208_max_inner_product.pdf) | Maximum Inner Product | 1.5 ⭐️ | ✅  |  |
+| [EE208_04_06](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_06%20Maximum%20of%20Quadratic%20Function/ee208_max_quadratic.pdf) | Maximum of Quadratic Function | 2 ⭐️ | ✅  |  |
+| [EE208_04_07](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_07%20Mix%20Max%20Scaling/ee208_min_max_scale.pdf) | Mix Max Scaling | 1.5 ⭐️ | ✅ |  |
+| [EE208_04_08](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_08%20Normal%20Standardization/ee208_standardization.pdf) | Normal Standardization | 1.5 ⭐️ | ✅ |  |
+| [EE208_04_09](https://github.com/NuBFightForMyDream/2102208_ProgrammingForEE_Grader_Problems/blob/main/EE208_04%20Matrix%20Problems/EE208_04_09%20Taylor%20Approximation%20on%20Trigonometry/ee208_taylor_trigono.pdf) | Taylor Approximation on Trigonometry | 2.5 ⭐️ | ✅ |  |
 
 ---
 
-## EE208_05: Other Topics
+## Part 05: Other Topics (Not Done)
 
 | Codename | Problem Name | Difficulty | Status | Note |
 |----------|--------------|------------|--------|------|
